@@ -8,7 +8,7 @@ import { Genre } from "./hooks/useGenres";
 //21 FILTERING GAMES BY GENRE MIN 11:37 ACABAR DE MIRAR EL VIDEO PER VEURE RESUM
 
 function App() {
-   const [selectedGenre, setSelectedGenre ] = useState<Genre | null>(null);
+  const [selectedGenre, setSelectedGenre] = useState<Genre | null>(null);
 
   return (
     <Grid
@@ -18,14 +18,19 @@ function App() {
       }}
       templateColumns={{
         base: "1fr",
-        lg: "200px 1fr"
+        lg: "200px 1fr",
       }}
     >
       <GridItem area="nav">
         <NavBar />
       </GridItem>
       <Show above="lg">
-        <GridItem area="aside" padding={5}><GenreList onSelectGenre={(genre) => setSelectedGenre(genre)} /></GridItem>
+        <GridItem area="aside" padding={5}>
+          <GenreList
+            selectedGenre={selectedGenre}
+            onSelectGenre={(genre) => setSelectedGenre(genre)}
+          />
+        </GridItem>
       </Show>
       <GridItem area="main">
         <GameGrid selectedGenre={selectedGenre} />
