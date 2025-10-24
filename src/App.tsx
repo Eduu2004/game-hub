@@ -2,8 +2,14 @@ import { Button, ButtonGroup, Grid, GridItem, Show } from "@chakra-ui/react";
 import NavBar from "./components/NavBar";
 import GameGrid from "./components/GameGrid";
 import GenreList from "./components/GenreList";
+import { useState } from "react";
+import { Genre } from "./hooks/useGenres";
+
+//21 FILTERING GAMES BY GENRE MIN 11:37 ACABAR DE MIRAR EL VIDEO PER VEURE RESUM
 
 function App() {
+   const [selectedGenre, setSelectedGenre ] = useState<Genre | null>(null);
+
   return (
     <Grid
       templateAreas={{
@@ -19,10 +25,10 @@ function App() {
         <NavBar />
       </GridItem>
       <Show above="lg">
-        <GridItem area="aside" padding={5}><GenreList /></GridItem>
+        <GridItem area="aside" padding={5}><GenreList onSelectGenre={(genre) => setSelectedGenre(genre)} /></GridItem>
       </Show>
       <GridItem area="main">
-        <GameGrid />
+        <GameGrid selectedGenre={selectedGenre} />
       </GridItem>
     </Grid>
   );
