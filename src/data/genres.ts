@@ -3,44 +3,44 @@ export default [
     "id": 4,
     "name": "Action",
     "slug": "action",
-    "games_count": 190277,
-    "image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
+    "games_count": 177189,
+    "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
     "games": [
       {
         "id": 3498,
         "slug": "grand-theft-auto-v",
         "name": "Grand Theft Auto V",
-        "added": 22277
+        "added": 18995
       },
       {
         "id": 3328,
         "slug": "the-witcher-3-wild-hunt",
         "name": "The Witcher 3: Wild Hunt",
-        "added": 21951
+        "added": 18127
       },
       {
         "id": 5286,
         "slug": "tomb-raider",
         "name": "Tomb Raider (2013)",
-        "added": 17693
+        "added": 14967
       },
       {
-        "id": 13536,
-        "slug": "portal",
-        "name": "Portal",
-        "added": 17666
+        "id": 4291,
+        "slug": "counter-strike-global-offensive",
+        "name": "Counter-Strike: Global Offensive",
+        "added": 14774
       },
       {
         "id": 12020,
         "slug": "left-4-dead-2",
         "name": "Left 4 Dead 2",
-        "added": 17437
+        "added": 14489
       },
       {
         "id": 5679,
         "slug": "the-elder-scrolls-v-skyrim",
         "name": "The Elder Scrolls V: Skyrim",
-        "added": 16686
+        "added": 14391
       }
     ]
   },
@@ -48,44 +48,44 @@ export default [
     "id": 51,
     "name": "Indie",
     "slug": "indie",
-    "games_count": 84167,
-    "image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg",
+    "games_count": 51112,
+    "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
     "games": [
       {
         "id": 1030,
         "slug": "limbo",
         "name": "Limbo",
-        "added": 14069
-      },
-      {
-        "id": 422,
-        "slug": "terraria",
-        "name": "Terraria",
-        "added": 13449
+        "added": 12272
       },
       {
         "id": 3272,
         "slug": "rocket-league",
         "name": "Rocket League",
-        "added": 12809
+        "added": 11164
+      },
+      {
+        "id": 422,
+        "slug": "terraria",
+        "name": "Terraria",
+        "added": 10975
       },
       {
         "id": 9767,
         "slug": "hollow-knight",
         "name": "Hollow Knight",
-        "added": 11717
-      },
-      {
-        "id": 654,
-        "slug": "stardew-valley",
-        "name": "Stardew Valley",
-        "added": 10909
+        "added": 9542
       },
       {
         "id": 3612,
         "slug": "hotline-miami",
         "name": "Hotline Miami",
-        "added": 10857
+        "added": 9376
+      },
+      {
+        "id": 3790,
+        "slug": "outlast",
+        "name": "Outlast",
+        "added": 9296
       }
     ]
   },
@@ -93,44 +93,44 @@ export default [
     "id": 3,
     "name": "Adventure",
     "slug": "adventure",
-    "games_count": 150438,
-    "image_background": "https://media.rawg.io/media/games/e2d/e2d3f396b16dded0f841c17c9799a882.jpg",
+    "games_count": 136213,
+    "image_background": "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
     "games": [
+      {
+        "id": 3498,
+        "slug": "grand-theft-auto-v",
+        "name": "Grand Theft Auto V",
+        "added": 18995
+      },
+      {
+        "id": 3328,
+        "slug": "the-witcher-3-wild-hunt",
+        "name": "The Witcher 3: Wild Hunt",
+        "added": 18127
+      },
+      {
+        "id": 5286,
+        "slug": "tomb-raider",
+        "name": "Tomb Raider (2013)",
+        "added": 14967
+      },
+      {
+        "id": 13536,
+        "slug": "portal",
+        "name": "Portal",
+        "added": 14517
+      },
+      {
+        "id": 28,
+        "slug": "red-dead-redemption-2",
+        "name": "Red Dead Redemption 2",
+        "added": 13743
+      },
       {
         "id": 3439,
         "slug": "life-is-strange-episode-1-2",
         "name": "Life is Strange",
-        "added": 15839
-      },
-      {
-        "id": 1030,
-        "slug": "limbo",
-        "name": "Limbo",
-        "added": 14069
-      },
-      {
-        "id": 23027,
-        "slug": "the-walking-dead",
-        "name": "The Walking Dead: Season 1",
-        "added": 11633
-      },
-      {
-        "id": 41,
-        "slug": "little-nightmares",
-        "name": "Little Nightmares",
-        "added": 11604
-      },
-      {
-        "id": 19487,
-        "slug": "alan-wake",
-        "name": "Alan Wake",
-        "added": 10425
-      },
-      {
-        "id": 9721,
-        "slug": "garrys-mod",
-        "name": "Garry's Mod",
-        "added": 10417
+        "added": 13719
       }
     ]
   },
@@ -138,44 +138,44 @@ export default [
     "id": 5,
     "name": "RPG",
     "slug": "role-playing-games-rpg",
-    "games_count": 61332,
-    "image_background": "https://media.rawg.io/media/games/00d/00d374f12a3ab5f96c500a2cfa901e15.jpg",
+    "games_count": 53575,
+    "image_background": "https://media.rawg.io/media/games/f6b/f6bed028b02369d4cab548f4f9337e81.jpg",
     "games": [
       {
         "id": 3328,
         "slug": "the-witcher-3-wild-hunt",
         "name": "The Witcher 3: Wild Hunt",
-        "added": 21951
+        "added": 18127
       },
       {
         "id": 5679,
         "slug": "the-elder-scrolls-v-skyrim",
         "name": "The Elder Scrolls V: Skyrim",
-        "added": 16686
+        "added": 14391
       },
       {
         "id": 802,
         "slug": "borderlands-2",
         "name": "Borderlands 2",
-        "added": 15929
+        "added": 13720
+      },
+      {
+        "id": 58175,
+        "slug": "god-of-war-2",
+        "name": "God of War (2018)",
+        "added": 12068
       },
       {
         "id": 3070,
         "slug": "fallout-4",
         "name": "Fallout 4",
-        "added": 14180
+        "added": 12065
       },
       {
-        "id": 41494,
-        "slug": "cyberpunk-2077",
-        "name": "Cyberpunk 2077",
-        "added": 13752
-      },
-      {
-        "id": 766,
-        "slug": "warframe",
-        "name": "Warframe",
-        "added": 13107
+        "id": 278,
+        "slug": "horizon-zero-dawn",
+        "name": "Horizon Zero Dawn",
+        "added": 11512
       }
     ]
   },
@@ -183,44 +183,44 @@ export default [
     "id": 10,
     "name": "Strategy",
     "slug": "strategy",
-    "games_count": 61807,
-    "image_background": "https://media.rawg.io/media/games/054/0549f1a0a5e782d4e81cdf8d022073fa.jpg",
+    "games_count": 53393,
+    "image_background": "https://media.rawg.io/media/games/40a/40ab95c1639aa1d7ec04d4cd523af6b1.jpg",
     "games": [
-      {
-        "id": 10243,
-        "slug": "company-of-heroes-2",
-        "name": "Company of Heroes 2",
-        "added": 9873
-      },
       {
         "id": 13633,
         "slug": "civilization-v",
         "name": "Sid Meier's Civilization V",
-        "added": 9755
+        "added": 8490
       },
       {
-        "id": 11147,
-        "slug": "ark-survival-of-the-fittest",
-        "name": "ARK: Survival Of The Fittest",
-        "added": 8917
-      },
-      {
-        "id": 10065,
-        "slug": "cities-skylines",
-        "name": "Cities: Skylines",
-        "added": 8629
+        "id": 10243,
+        "slug": "company-of-heroes-2",
+        "name": "Company of Heroes 2",
+        "added": 8371
       },
       {
         "id": 13910,
         "slug": "xcom-enemy-unknown",
         "name": "XCOM: Enemy Unknown",
-        "added": 8498
+        "added": 7567
       },
       {
         "id": 5525,
         "slug": "brutal-legend",
         "name": "Brutal Legend",
-        "added": 8408
+        "added": 7502
+      },
+      {
+        "id": 10065,
+        "slug": "cities-skylines",
+        "name": "Cities: Skylines",
+        "added": 7299
+      },
+      {
+        "id": 11147,
+        "slug": "ark-survival-of-the-fittest",
+        "name": "ARK: Survival Of The Fittest",
+        "added": 6962
       }
     ]
   },
@@ -228,44 +228,44 @@ export default [
     "id": 2,
     "name": "Shooter",
     "slug": "shooter",
-    "games_count": 59598,
-    "image_background": "https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg",
+    "games_count": 62697,
+    "image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg",
     "games": [
       {
         "id": 4200,
         "slug": "portal-2",
         "name": "Portal 2",
-        "added": 20714
+        "added": 17084
       },
       {
         "id": 4291,
         "slug": "counter-strike-global-offensive",
         "name": "Counter-Strike: Global Offensive",
-        "added": 18320
+        "added": 14774
       },
       {
         "id": 12020,
         "slug": "left-4-dead-2",
         "name": "Left 4 Dead 2",
-        "added": 17437
+        "added": 14489
       },
       {
         "id": 4062,
         "slug": "bioshock-infinite",
         "name": "BioShock Infinite",
-        "added": 16013
-      },
-      {
-        "id": 13537,
-        "slug": "half-life-2",
-        "name": "Half-Life 2",
-        "added": 15972
+        "added": 13894
       },
       {
         "id": 802,
         "slug": "borderlands-2",
         "name": "Borderlands 2",
-        "added": 15929
+        "added": 13720
+      },
+      {
+        "id": 13537,
+        "slug": "half-life-2",
+        "name": "Half-Life 2",
+        "added": 12970
       }
     ]
   },
@@ -273,44 +273,44 @@ export default [
     "id": 40,
     "name": "Casual",
     "slug": "casual",
-    "games_count": 66234,
-    "image_background": "https://media.rawg.io/media/games/b74/b74b15a48ac7bc37fbb42ee4afcc0b91.jpg",
+    "games_count": 43416,
+    "image_background": "https://media.rawg.io/media/screenshots/42d/42d770eb49f2ba01cd4045e0d92af7a9.jpg",
     "games": [
       {
         "id": 9721,
         "slug": "garrys-mod",
         "name": "Garry's Mod",
-        "added": 10417
+        "added": 8560
       },
       {
         "id": 326292,
         "slug": "fall-guys",
         "name": "Fall Guys: Ultimate Knockout",
-        "added": 8895
+        "added": 7532
       },
       {
         "id": 9830,
         "slug": "brawlhalla",
         "name": "Brawlhalla",
-        "added": 8268
+        "added": 6465
       },
       {
         "id": 356714,
         "slug": "among-us",
         "name": "Among Us",
-        "added": 7902
+        "added": 6137
       },
       {
-        "id": 817974,
-        "slug": "wallpaper-engine",
-        "name": "Wallpaper Engine",
-        "added": 6539
+        "id": 1959,
+        "slug": "goat-simulator",
+        "name": "Goat Simulator",
+        "added": 5693
       },
       {
-        "id": 42187,
-        "slug": "the-sims-4",
-        "name": "The Sims 4",
-        "added": 6522
+        "id": 16343,
+        "slug": "a-story-about-my-uncle",
+        "name": "A Story About My Uncle",
+        "added": 5377
       }
     ]
   },
@@ -318,44 +318,44 @@ export default [
     "id": 14,
     "name": "Simulation",
     "slug": "simulation",
-    "games_count": 76041,
-    "image_background": "https://media.rawg.io/media/games/a88/a886c37bf112d009e318b106db9d420a.jpg",
+    "games_count": 66761,
+    "image_background": "https://media.rawg.io/media/games/997/997ab4d67e96fb20a4092383477d4463.jpg",
     "games": [
-      {
-        "id": 654,
-        "slug": "stardew-valley",
-        "name": "Stardew Valley",
-        "added": 10909
-      },
       {
         "id": 10035,
         "slug": "hitman",
         "name": "Hitman",
-        "added": 10852
+        "added": 9640
+      },
+      {
+        "id": 654,
+        "slug": "stardew-valley",
+        "name": "Stardew Valley",
+        "added": 8632
       },
       {
         "id": 9721,
         "slug": "garrys-mod",
         "name": "Garry's Mod",
-        "added": 10417
+        "added": 8560
+      },
+      {
+        "id": 10243,
+        "slug": "company-of-heroes-2",
+        "name": "Company of Heroes 2",
+        "added": 8371
       },
       {
         "id": 9882,
         "slug": "dont-starve-together",
         "name": "Don't Starve Together",
-        "added": 9934
+        "added": 8007
       },
       {
         "id": 22509,
         "slug": "minecraft",
         "name": "Minecraft",
-        "added": 8802
-      },
-      {
-        "id": 10065,
-        "slug": "cities-skylines",
-        "name": "Cities: Skylines",
-        "added": 8629
+        "added": 7333
       }
     ]
   },
@@ -363,44 +363,44 @@ export default [
     "id": 7,
     "name": "Puzzle",
     "slug": "puzzle",
-    "games_count": 97371,
-    "image_background": "https://media.rawg.io/media/games/9f4/9f418898f5415668ca47b5f4ab1ecfeb.jpg",
+    "games_count": 99805,
+    "image_background": "https://media.rawg.io/media/games/8cd/8cd179c85bd3de8f79bef245b15075fb.jpg",
     "games": [
       {
         "id": 4200,
         "slug": "portal-2",
         "name": "Portal 2",
-        "added": 20714
+        "added": 17084
       },
       {
         "id": 13536,
         "slug": "portal",
         "name": "Portal",
-        "added": 17666
+        "added": 14517
       },
       {
         "id": 1030,
         "slug": "limbo",
         "name": "Limbo",
-        "added": 14069
+        "added": 12272
       },
       {
         "id": 19709,
         "slug": "half-life-2-episode-two",
         "name": "Half-Life 2: Episode Two",
-        "added": 11252
+        "added": 9682
+      },
+      {
+        "id": 18080,
+        "slug": "half-life",
+        "name": "Half-Life",
+        "added": 8892
       },
       {
         "id": 1450,
         "slug": "inside",
         "name": "INSIDE",
-        "added": 8328
-      },
-      {
-        "id": 3853,
-        "slug": "trine-2-complete-story",
-        "name": "Trine 2: Complete Story",
-        "added": 7418
+        "added": 7112
       }
     ]
   },
@@ -408,44 +408,44 @@ export default [
     "id": 11,
     "name": "Arcade",
     "slug": "arcade",
-    "games_count": 22672,
-    "image_background": "https://media.rawg.io/media/games/e0f/e0f05a97ff926acf4c8f43e0849b6832.jpg",
+    "games_count": 22544,
+    "image_background": "https://media.rawg.io/media/games/238/238e2b2b24c9838626700c69cacf1e3a.jpg",
     "games": [
       {
         "id": 3612,
         "slug": "hotline-miami",
         "name": "Hotline Miami",
-        "added": 10857
+        "added": 9376
       },
       {
         "id": 17540,
         "slug": "injustice-gods-among-us-ultimate-edition",
         "name": "Injustice: Gods Among Us Ultimate Edition",
-        "added": 9848
+        "added": 8582
       },
       {
         "id": 22509,
         "slug": "minecraft",
         "name": "Minecraft",
-        "added": 8802
+        "added": 7333
       },
       {
         "id": 4003,
         "slug": "grid-2",
         "name": "GRID 2",
-        "added": 7716
+        "added": 6775
       },
       {
         "id": 3408,
         "slug": "hotline-miami-2-wrong-number",
         "name": "Hotline Miami 2: Wrong Number",
-        "added": 6419
+        "added": 5476
       },
       {
-        "id": 58753,
-        "slug": "forza-horizon-4",
-        "name": "Forza Horizon 4",
-        "added": 6295
+        "id": 16343,
+        "slug": "a-story-about-my-uncle",
+        "name": "A Story About My Uncle",
+        "added": 5377
       }
     ]
   },
@@ -453,89 +453,44 @@ export default [
     "id": 83,
     "name": "Platformer",
     "slug": "platformer",
-    "games_count": 100903,
-    "image_background": "https://media.rawg.io/media/games/fc8/fc838d98c9b944e6a15176eabf40bee8.jpg",
+    "games_count": 105652,
+    "image_background": "https://media.rawg.io/media/games/fd7/fd794a9f0ffe816038d981b3acc3eec9.jpg",
     "games": [
       {
         "id": 1030,
         "slug": "limbo",
         "name": "Limbo",
-        "added": 14069
+        "added": 12272
       },
       {
         "id": 422,
         "slug": "terraria",
         "name": "Terraria",
-        "added": 13449
+        "added": 10975
       },
       {
         "id": 9767,
         "slug": "hollow-knight",
         "name": "Hollow Knight",
-        "added": 11717
+        "added": 9542
       },
       {
         "id": 41,
         "slug": "little-nightmares",
         "name": "Little Nightmares",
-        "added": 11604
+        "added": 9422
+      },
+      {
+        "id": 18080,
+        "slug": "half-life",
+        "name": "Half-Life",
+        "added": 8892
       },
       {
         "id": 3144,
         "slug": "super-meat-boy",
         "name": "Super Meat Boy",
-        "added": 9678
-      },
-      {
-        "id": 17572,
-        "slug": "batman-aa-goty",
-        "name": "Batman: Arkham Asylum Game of the Year Edition",
-        "added": 8560
-      }
-    ]
-  },
-  {
-    "id": 59,
-    "name": "Massively Multiplayer",
-    "slug": "massively-multiplayer",
-    "games_count": 4195,
-    "image_background": "https://media.rawg.io/media/games/095/0953bf01cd4e4dd204aba85489ac9868.jpg",
-    "games": [
-      {
-        "id": 10213,
-        "slug": "dota-2",
-        "name": "Dota 2",
-        "added": 13127
-      },
-      {
-        "id": 766,
-        "slug": "warframe",
-        "name": "Warframe",
-        "added": 13107
-      },
-      {
-        "id": 10142,
-        "slug": "playerunknowns-battlegrounds",
-        "name": "PlayerUnknown’s Battlegrounds",
-        "added": 10679
-      },
-      {
-        "id": 10533,
-        "slug": "path-of-exile",
-        "name": "Path of Exile",
-        "added": 10622
-      },
-      {
-        "id": 362,
-        "slug": "for-honor",
-        "name": "For Honor",
-        "added": 9667
-      },
-      {
-        "id": 11147,
-        "slug": "ark-survival-of-the-fittest",
-        "name": "ARK: Survival Of The Fittest",
-        "added": 8917
+        "added": 8559
       }
     ]
   },
@@ -543,44 +498,89 @@ export default [
     "id": 1,
     "name": "Racing",
     "slug": "racing",
-    "games_count": 25686,
-    "image_background": "https://media.rawg.io/media/games/fc0/fc076b974197660a582abd34ebccc27f.jpg",
+    "games_count": 24448,
+    "image_background": "https://media.rawg.io/media/games/23d/23d78acedbb5f40c9fb64e73af5af65d.jpg",
     "games": [
       {
         "id": 3272,
         "slug": "rocket-league",
         "name": "Rocket League",
-        "added": 12809
+        "added": 11164
       },
       {
         "id": 4003,
         "slug": "grid-2",
         "name": "GRID 2",
-        "added": 7716
+        "added": 6775
       },
       {
         "id": 2572,
         "slug": "dirt-rally",
         "name": "DiRT Rally",
-        "added": 7007
+        "added": 6068
       },
       {
         "id": 58753,
         "slug": "forza-horizon-4",
         "name": "Forza Horizon 4",
-        "added": 6295
+        "added": 5375
       },
       {
         "id": 5578,
         "slug": "grid",
-        "name": "GRID (2008)",
-        "added": 5420
+        "name": "Race Driver: Grid",
+        "added": 4981
       },
       {
-        "id": 19491,
-        "slug": "burnout-paradise-the-ultimate-box",
-        "name": "Burnout Paradise: The Ultimate Box",
-        "added": 4847
+        "id": 4347,
+        "slug": "dirt-showdown",
+        "name": "DiRT Showdown",
+        "added": 4332
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Massively Multiplayer",
+    "slug": "massively-multiplayer",
+    "games_count": 3152,
+    "image_background": "https://media.rawg.io/media/games/651/651ae84f2d5e36206aad90976a453329.jpg",
+    "games": [
+      {
+        "id": 32,
+        "slug": "destiny-2",
+        "name": "Destiny 2",
+        "added": 12059
+      },
+      {
+        "id": 10213,
+        "slug": "dota-2",
+        "name": "Dota 2",
+        "added": 11021
+      },
+      {
+        "id": 766,
+        "slug": "warframe",
+        "name": "Warframe",
+        "added": 10860
+      },
+      {
+        "id": 290856,
+        "slug": "apex-legends",
+        "name": "Apex Legends",
+        "added": 9605
+      },
+      {
+        "id": 10533,
+        "slug": "path-of-exile",
+        "name": "Path of Exile",
+        "added": 8685
+      },
+      {
+        "id": 10142,
+        "slug": "playerunknowns-battlegrounds",
+        "name": "PlayerUnknown’s Battlegrounds",
+        "added": 8537
       }
     ]
   },
@@ -588,44 +588,44 @@ export default [
     "id": 15,
     "name": "Sports",
     "slug": "sports",
-    "games_count": 22517,
-    "image_background": "https://media.rawg.io/media/games/1a7/1a77ee44d7e91949aa794597d32c2e28.jpg",
+    "games_count": 20711,
+    "image_background": "https://media.rawg.io/media/screenshots/f5a/f5abab52c4d606551cd5ec3ab709e501.jpg",
     "games": [
       {
         "id": 3272,
         "slug": "rocket-league",
         "name": "Rocket League",
-        "added": 12809
+        "added": 11164
       },
       {
         "id": 326292,
         "slug": "fall-guys",
         "name": "Fall Guys: Ultimate Knockout",
-        "added": 8895
+        "added": 7532
       },
       {
         "id": 2572,
         "slug": "dirt-rally",
         "name": "DiRT Rally",
-        "added": 7007
+        "added": 6068
       },
       {
         "id": 53341,
         "slug": "jet-set-radio-2012",
         "name": "Jet Set Radio",
-        "added": 5304
+        "added": 4740
       },
       {
         "id": 9575,
         "slug": "vrchat",
         "name": "VRChat",
-        "added": 5120
+        "added": 3909
       },
       {
-        "id": 36,
-        "slug": "tekken-7",
-        "name": "TEKKEN 7",
-        "added": 4186
+        "id": 622492,
+        "slug": "forza-horizon-5",
+        "name": "Forza Horizon 5",
+        "added": 3873
       }
     ]
   },
@@ -633,44 +633,44 @@ export default [
     "id": 6,
     "name": "Fighting",
     "slug": "fighting",
-    "games_count": 11772,
-    "image_background": "https://media.rawg.io/media/games/f49/f49248982c6e9d6e849d16b9f5d93ae4.jpg",
+    "games_count": 12308,
+    "image_background": "https://media.rawg.io/media/games/cc5/cc576aa274780702ef93463f5410031e.jpg",
     "games": [
       {
         "id": 17540,
         "slug": "injustice-gods-among-us-ultimate-edition",
         "name": "Injustice: Gods Among Us Ultimate Edition",
-        "added": 9848
+        "added": 8582
       },
       {
         "id": 108,
         "slug": "mortal-kombat-x",
         "name": "Mortal Kombat X",
-        "added": 9004
+        "added": 7908
       },
       {
         "id": 28179,
         "slug": "sega-mega-drive-and-genesis-classics",
         "name": "SEGA Mega Drive and Genesis Classics",
-        "added": 8409
+        "added": 7280
       },
       {
         "id": 9830,
         "slug": "brawlhalla",
         "name": "Brawlhalla",
-        "added": 8268
+        "added": 6465
       },
       {
         "id": 274480,
         "slug": "mortal-kombat-11",
         "name": "Mortal Kombat 11",
-        "added": 5706
+        "added": 4685
       },
       {
         "id": 44525,
         "slug": "yakuza-kiwami",
         "name": "Yakuza Kiwami",
-        "added": 4707
+        "added": 4038
       }
     ]
   },
@@ -678,44 +678,44 @@ export default [
     "id": 19,
     "name": "Family",
     "slug": "family",
-    "games_count": 5408,
-    "image_background": "https://media.rawg.io/media/games/9a1/9a18c226cf379272c698f26d2b79b3da.jpg",
+    "games_count": 5378,
+    "image_background": "https://media.rawg.io/media/games/9f7/9f750cb69a31a42648f45e3681abed3a.jpg",
     "games": [
       {
         "id": 3254,
         "slug": "journey",
         "name": "Journey",
-        "added": 8591
+        "added": 7784
       },
       {
-        "id": 3729,
-        "slug": "lego-the-hobbit",
-        "name": "LEGO The Hobbit",
-        "added": 5472
+        "id": 2597,
+        "slug": "lego-lord-of-the-rings",
+        "name": "LEGO The Lord of the Rings",
+        "added": 4950
       },
       {
         "id": 3350,
         "slug": "broken-age",
         "name": "Broken Age",
-        "added": 5135
+        "added": 4625
+      },
+      {
+        "id": 3729,
+        "slug": "lego-the-hobbit",
+        "name": "LEGO The Hobbit",
+        "added": 4549
       },
       {
         "id": 1259,
         "slug": "machinarium",
         "name": "Machinarium",
-        "added": 4748
+        "added": 4105
       },
       {
         "id": 1140,
         "slug": "world-of-goo",
         "name": "World of Goo",
-        "added": 4596
-      },
-      {
-        "id": 4331,
-        "slug": "sonic-generations",
-        "name": "Sonic Generations",
-        "added": 4313
+        "added": 4042
       }
     ]
   },
@@ -723,89 +723,44 @@ export default [
     "id": 28,
     "name": "Board Games",
     "slug": "board-games",
-    "games_count": 8389,
-    "image_background": "https://media.rawg.io/media/games/0e7/0e7582dda5530d5b95f877dfad57e6ba.jpg",
+    "games_count": 8272,
+    "image_background": "https://media.rawg.io/media/screenshots/768/768e36d4b62a1481fef737c6920fbfc7.jpg",
     "games": [
       {
         "id": 23557,
         "slug": "gwent-the-witcher-card-game",
         "name": "Gwent: The Witcher Card Game",
-        "added": 5058
+        "added": 4218
       },
       {
         "id": 327999,
         "slug": "dota-underlords",
         "name": "Dota Underlords",
-        "added": 4253
+        "added": 3557
       },
       {
         "id": 2055,
         "slug": "adventure-capitalist",
         "name": "AdVenture Capitalist",
-        "added": 3574
+        "added": 2972
       },
       {
-        "id": 758,
-        "slug": "hue",
-        "name": "Hue",
-        "added": 2808
+        "id": 2306,
+        "slug": "poker-night-2",
+        "name": "Poker Night 2",
+        "added": 1914
       },
       {
         "id": 3187,
         "slug": "armello",
         "name": "Armello",
-        "added": 2124
+        "added": 1802
       },
       {
-        "id": 2306,
-        "slug": "poker-night-2",
-        "name": "Poker Night 2",
-        "added": 2114
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "name": "Card",
-    "slug": "card",
-    "games_count": 4539,
-    "image_background": "https://media.rawg.io/media/games/f32/f3249ed24f4b98846ea80ef631716ff0.jpg",
-    "games": [
-      {
-        "id": 28121,
-        "slug": "slay-the-spire",
-        "name": "Slay the Spire",
-        "added": 5228
-      },
-      {
-        "id": 23557,
-        "slug": "gwent-the-witcher-card-game",
-        "name": "Gwent: The Witcher Card Game",
-        "added": 5058
-      },
-      {
-        "id": 18852,
-        "slug": "poker-night-at-the-inventory",
-        "name": "Poker Night at the Inventory",
-        "added": 2816
-      },
-      {
-        "id": 332,
-        "slug": "the-elder-scrolls-legends",
-        "name": "The Elder Scrolls: Legends",
-        "added": 2279
-      },
-      {
-        "id": 8923,
-        "slug": "faeria",
-        "name": "Faeria",
-        "added": 2230
-      },
-      {
-        "id": 2306,
-        "slug": "poker-night-2",
-        "name": "Poker Night 2",
-        "added": 2114
+        "id": 758,
+        "slug": "hue",
+        "name": "Hue",
+        "added": 1743
       }
     ]
   },
@@ -813,44 +768,89 @@ export default [
     "id": 34,
     "name": "Educational",
     "slug": "educational",
-    "games_count": 15694,
-    "image_background": "https://media.rawg.io/media/screenshots/49d/49dae660a0fc843b23d63af8ce34e33c.jpg",
+    "games_count": 16155,
+    "image_background": "https://media.rawg.io/media/screenshots/6cd/6cd13ed3dcb6b44b8bc995850f2861e6.jpg",
     "games": [
       {
         "id": 1358,
         "slug": "papers-please",
         "name": "Papers, Please",
-        "added": 7220
+        "added": 6053
       },
       {
         "id": 1140,
         "slug": "world-of-goo",
         "name": "World of Goo",
-        "added": 4596
+        "added": 4042
       },
       {
         "id": 2778,
         "slug": "surgeon-simulator-cpr",
         "name": "Surgeon Simulator",
-        "added": 4081
+        "added": 3545
       },
       {
         "id": 9768,
         "slug": "gameguru",
         "name": "GameGuru",
-        "added": 2674
+        "added": 2260
       },
       {
         "id": 13777,
         "slug": "sid-meiers-civilization-iv-colonization",
         "name": "Sid Meier's Civilization IV: Colonization",
-        "added": 2424
+        "added": 2105
       },
       {
         "id": 6885,
         "slug": "pirates-3",
         "name": "Sid Meier's Pirates!",
-        "added": 2358
+        "added": 1995
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Card",
+    "slug": "card",
+    "games_count": 4461,
+    "image_background": "https://media.rawg.io/media/screenshots/ca2/ca257e3481af0b2c8149d6600440aa85.jpeg",
+    "games": [
+      {
+        "id": 23557,
+        "slug": "gwent-the-witcher-card-game",
+        "name": "Gwent: The Witcher Card Game",
+        "added": 4218
+      },
+      {
+        "id": 28121,
+        "slug": "slay-the-spire",
+        "name": "Slay the Spire",
+        "added": 4182
+      },
+      {
+        "id": 18852,
+        "slug": "poker-night-at-the-inventory",
+        "name": "Poker Night at the Inventory",
+        "added": 2539
+      },
+      {
+        "id": 8923,
+        "slug": "faeria",
+        "name": "Faeria",
+        "added": 1998
+      },
+      {
+        "id": 332,
+        "slug": "the-elder-scrolls-legends",
+        "name": "The Elder Scrolls: Legends",
+        "added": 1932
+      },
+      {
+        "id": 2306,
+        "slug": "poker-night-2",
+        "name": "Poker Night 2",
+        "added": 1914
       }
     ]
   }
