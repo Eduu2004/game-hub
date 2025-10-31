@@ -1,6 +1,6 @@
 
 
-export interface Tariler {
+export default interface Tariler {
     id: number;
     name: string;
     preview: string;

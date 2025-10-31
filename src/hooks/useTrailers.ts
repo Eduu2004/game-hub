@@ -1,5 +1,5 @@
 import { useQuery } from "@tanstack/react-query";
-import { Tariler } from "../entities/Trailer";
+import  Tariler  from "../entities/Trailer";
 import APIClient from "../services/api-client";
 
 
